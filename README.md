@@ -15,7 +15,13 @@ Studio 3T: A popular GUI for MongoDB, which will help us in visualizing, queryin
 Questions answered:
 
 
-3) Once per month we like to reward hosts with recognition. Pick three superhosts who have at least two property listings that can accommodate more than four people?
+1) The most typical use case for the database is to show information relating to a property listing to a customer. This is done by a query to the database which returns one of the listing documents. Currently a lot of time is spent when a listing is retrieved from the database to show to a customer. Decide what information should be returned in a typical query and optimise the structure for this use case. For example, we typically only want a sample of reviews but not all reviews (although all reviews ), the customer does not need to know past transaction data, etc. Update the document schema for this typical use case. This may involve the creation of new collections and documents.
+
+
+2) Review the data for any errors (such as transactions that don’t fit the listing) or inappropriate duplication and clean up as appropriate.
+
+
+4) Once per month we like to reward hosts with recognition. Pick three superhosts who have at least two property listings that can accommodate more than four people?
 
 
 4) One of employees is thinking of buying a property to rent out. Which bed type is most common in the listings that have waterfront and a dishwasher in New York?
