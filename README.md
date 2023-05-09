@@ -54,7 +54,7 @@ Questions answered:
 Database updates:
 
 
-After you have completed the above tasks and have optimised your database show how you would complete each of the updates below. You can create whatever fictional data you like for the below. Remeber to cosider how to prevent any data you have previously created from becoming stale.
+Remeber to cosider how to prevent any data you have previously created from becoming stale.
 
 
 13) Add a new property, this property should have a new host, and should be located in one of the top 10 cities. The host selects the top 10 most common amenities to be listed for the property.
