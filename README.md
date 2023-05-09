@@ -4,11 +4,15 @@ This repository focuses on optimizing the performance and structure of the AirBN
 
 Technologies
 
+
 MongoDB: A powerful and flexible NoSQL database management system, which will be used to store and manage the AirBNB listings data.
+
 
 Docker: A platform that simplifies the deployment and management of applications in containers, ensuring consistency and reducing overhead.
 
+
 Studio 3T: A popular GUI for MongoDB, which will help us in visualizing, querying, and managing the data more efficiently.
+
 
 Key Challenges
 
