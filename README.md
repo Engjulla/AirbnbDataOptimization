@@ -1,6 +1,5 @@
 AirBNB Data Optimization Repository
 
-Introduction
 This repository focuses on optimizing the performance and structure of the AirBNB listings data using MongoDB, Docker, and Studio 3T. The current state of the data, which is all collected in a single document, has resulted in slow query performance and other issues. My goal is to address these issues by applying appropriate data model patterns, implementing indexing strategies, and fixing data collection errors.
 
 Technologies
