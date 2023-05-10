@@ -12,7 +12,7 @@ Docker: A platform that simplifies the deployment and management of applications
 Studio 3T: A popular GUI for MongoDB, which will help us in visualizing, querying, and managing the data more efficiently.
 
 
-Questions answered:
+Objectives tackled:
 
 
 1) The most typical use case for the database is to show information relating to a property listing to a customer. This is done by a query to the database which returns one of the listing documents. Currently a lot of time is spent when a listing is retrieved from the database to show to a customer. Decide what information should be returned in a typical query and optimise the structure for this use case. For example, we typically only want a sample of reviews but not all reviews (although all reviews ), the customer does not need to know past transaction data, etc. Update the document schema for this typical use case. This may involve the creation of new collections and documents.
